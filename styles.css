@@ -4,6 +4,9 @@
     text-decoration: none;
     font-family: sans-serif;
 }
+body{
+    background-color: #e5e5e6;
+}
 .hero{
     background: black;
     height: 45rem;
